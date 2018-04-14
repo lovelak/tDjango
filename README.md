@@ -1,0 +1,2 @@
+# tDjango
+practice django framwork
